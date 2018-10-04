@@ -1,0 +1,1 @@
+# General way of writing python program
