@@ -18,7 +18,8 @@ class Hello
 	}
 }
 
-/* Now your task is to remove all the comments given here 
+/* Now your task is to create a new file with filename as your name
+and copy the content of this file and remove all the comments given here 
 and type your first and last name in the above variables such 
 that your name is printed.
 Then save it and run it. Then push it into the hello world folder.
