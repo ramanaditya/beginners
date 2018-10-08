@@ -38,6 +38,8 @@ then type
 >ADITYAs-MacBook-Air:study aditya$ cc filename.c   //eg: cc linear.c
 >```
 
+#### You can also use [Online Compiler](https://www.tutorialspoint.com/compile_c_online.php) for compiling any C program but it is not much efficient
+
 ## Executing the file
 type in the terminal just after compiling the code
 
