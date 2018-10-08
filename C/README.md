@@ -1,6 +1,6 @@
 # General way of writing and executing a C file
 ## For writing a piece of code in C
-Open a text editor (preferably use [atom](https://atom.io) or [sublime Text](https://www.sublimetext.com))
+Open a text editor (preferably use [atom](https://atom.io) or [sublime Text](https://www.sublimetext.com) or [VS_Code](https://code.visualstudio.com/))
 
 ## Writing Code
 You can use/copy [sample.c](https://github.com/ramanaditya/beginners/blob/master/C/sample.c) file and edit in that and save that with different names
@@ -53,6 +53,8 @@ type in the terminal just after compiling the code
 >>    Check the code once again and repeat the procedure
 
 # Books for studying C
+<li><a href="https://www.amazon.in/Programming-ANSI-C-Balagurusamy/dp/933921966X/ref=sr_1_1?s=books&ie=UTF8&qid=1539010209&sr=1-1&refinements=p_27%3AE+Balagurusamy"> Programmming in ANSI C </a> by E.Balagurusamy </li>
+
 <li><a href="http://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf"> The C Programming Language </a> Book by Brian Kernighan and Dennis Ritchie </li> 
 <li><a href="https://www.cluster2.hostgator.co.in/files/writeable/uploads/hostgator99706/file/letusc-yashwantkanetkar.pdf"> Let Us C </a> Book by Yashavant P. Kanetkar </li>
 <hr>
