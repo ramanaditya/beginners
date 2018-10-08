@@ -53,10 +53,9 @@ type in the terminal just after compiling the code
 >>    Check the code once again and repeat the procedure
 
 # Books for studying C
-<li><a href="https://www.amazon.in/Programming-ANSI-C-Balagurusamy/dp/933921966X/ref=sr_1_1?s=books&ie=UTF8&qid=1539010209&sr=1-1&refinements=p_27%3AE+Balagurusamy"> Programmming in ANSI C </a> by E.Balagurusamy </li>
-
-<li><a href="http://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf"> The C Programming Language </a> Book by Brian Kernighan and Dennis Ritchie </li> 
-<li><a href="https://www.cluster2.hostgator.co.in/files/writeable/uploads/hostgator99706/file/letusc-yashwantkanetkar.pdf"> Let Us C </a> Book by Yashavant P. Kanetkar </li>
+<li><a href="https://drive.google.com/file/d/1cF8dv_11ebyTQHVtOo6pmr15uYQdRaKI/view"> Programmming in ANSI C <sup>[pdf]</sup>  </a> by E.Balagurusamy </li>
+<li><a href="http://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf"> The C Programming Language<sup>[pdf]</sup> </a> Book by Brian Kernighan and Dennis Ritchie </li> 
+<li><a href="https://www.cluster2.hostgator.co.in/files/writeable/uploads/hostgator99706/file/letusc-yashwantkanetkar.pdf"> Let Us C<sup>[pdf]</sup> </a> Book by Yashavant P. Kanetkar </li>
 <hr>
 
 > Feel free to contribute
