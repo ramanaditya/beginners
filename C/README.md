@@ -1,6 +1,6 @@
 # General way of writing and executing a C file
 ## For writing a piece of code in C
-Open a text editor (preferably use [atom](https://atom.io) or [sublime Text](https://www.sublimetext.com))
+Open a text editor (preferably use [atom](https://atom.io) or [sublime Text](https://www.sublimetext.com) or [VS_Code](https://code.visualstudio.com/))
 
 ## Writing Code
 You can use/copy [sample.c](https://github.com/ramanaditya/beginners/blob/master/C/sample.c) file and edit in that and save that with different names
@@ -38,6 +38,8 @@ then type
 >ADITYAs-MacBook-Air:study aditya$ cc filename.c   //eg: cc linear.c
 >```
 
+#### You can also use [Online Compiler](https://www.tutorialspoint.com/compile_c_online.php) for compiling any C program but it is not much efficient
+
 ## Executing the file
 type in the terminal just after compiling the code
 
@@ -53,8 +55,9 @@ type in the terminal just after compiling the code
 >>    Check the code once again and repeat the procedure
 
 # Books for studying C
-<li><a href="http://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf"> The C Programming Language </a> Book by Brian Kernighan and Dennis Ritchie </li> 
-<li><a href="https://www.cluster2.hostgator.co.in/files/writeable/uploads/hostgator99706/file/letusc-yashwantkanetkar.pdf"> Let Us C </a> Book by Yashavant P. Kanetkar </li>
+<li><a href="https://drive.google.com/file/d/1cF8dv_11ebyTQHVtOo6pmr15uYQdRaKI/view"> Programmming in ANSI C <sup>[pdf]</sup>  </a> by E.Balagurusamy </li>
+<li><a href="http://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf"> The C Programming Language<sup>[pdf]</sup> </a> Book by Brian Kernighan and Dennis Ritchie </li> 
+<li><a href="https://www.cluster2.hostgator.co.in/files/writeable/uploads/hostgator99706/file/letusc-yashwantkanetkar.pdf"> Let Us C<sup>[pdf]</sup> </a> Book by Yashavant P. Kanetkar </li>
 <hr>
 
 > Feel free to contribute
