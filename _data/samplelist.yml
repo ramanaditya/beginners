@@ -1,0 +1,11 @@
+docs_list_title: Contents of the page
+docs:
+
+- title: Introduction
+  url: README.md
+
+- title: Contents
+  url: index.md
+
+- title: Contributors
+  url: CONTRIBUTING.md
