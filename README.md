@@ -5,49 +5,56 @@ This ia a type of site for `Collections of Programming questions`. The main aim 
 ### How you will be benefitted
 
 Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can utilise this repository for solving and practising questions as you keep on learning as you will get a bulk of questions and you can view the different approaches to solve the questions. For simplicity to find the level of questions we have marked serial numbers as the first character of the file name. Each file contains a `README.md` file that contains all the basic informations required.
+<hr>
 
 ### Contents of the site
+
 <ul>
   <li><a href="https://ramanaditya.github.io/beginners/C/">C</a></li>
   <li><a href="https://ramanaditya.github.io/beginners/python">Python</a></li>
   <li><a href="https://ramanaditya.github.io/beginners/Java/">Java</a></li>
   <li><a href="https://ramanaditya.github.io/beginners/competitive_coding/">Competitive Coding</a></li>
 </ul>
+<div>
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/C">C</a></summary>
+    <ul>
+      <li>README.md</li>
+      <li>sample.c</li>
+      <li>1_hello_world</li>
+    </ul>
+  </details>
 
   <details>
-     <summary><a href="https://ramanaditya.github.io/beginners/C">C</a></summary>
-     <ul>
-       <li>README.md</li>
-       <li>sample.c</li>
-       <li>1_hello_world</li>
-     </details>
-     </ul>
-   <details>
-     <summary><a href="https://ramanaditya.github.io/beginners/python">Python</a></summary>
-     <ul>
-       <li>README.md</li>
-       <li>sample.py</li>
-       <li>1_hello_world</li>
-       <li>2_variable</li>
-     </details>
-     </ul>
-     <details>
-       <summary><a href="https://ramanaditya.github.io/beginners/Java">Java</a></summary>
-     <ul>
-       <li>README.md</li>
-       <li>practice.md</li>
-       <li>Reference_books.md</li>
-       <li>1. Hello World</li>
-       <li>2. Variables</li>
-     </details>
-   </ul>
-    <details>
-       <summary><a href="https://ramanaditya.github.io/beginners/competitive_coding">Competitive Coding</a></summary>
-     <ul>
-       <li>README.md</li>
-       <li>fibonacci</li>
-     </ul>
-     </details>
+    <summary><a href="https://ramanaditya.github.io/beginners/python">Python</a></summary>
+    <ul>
+      <li>README.md</li>
+      <li>sample.py</li>
+      <li>1_hello_world</li>
+      <li>2_variable</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/Java">Java</a></summary>
+    <ul>
+      <li>README.md</li>
+      <li>practice.md</li>
+      <li>Reference_books.md</li>
+      <li>1. Hello World</li>
+      <li>2. Variables</li>
+    </ul>
+  </details>
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/competitive_coding">Competitive Coding</a></summary>
+    <ul>
+      <li>README.md</li>
+      <li>fibonacci</li>
+    </ul>
+  </details>
+</div>
+
+<hr>
 
 ### Creators and Contacts
 <table class="tg">
