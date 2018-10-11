@@ -9,12 +9,7 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
 
 ### Contents of the site
 
-<ul>
-  <li><a href="https://ramanaditya.github.io/beginners/C/">C</a></li>
-  <li><a href="https://ramanaditya.github.io/beginners/python">Python</a></li>
-  <li><a href="https://ramanaditya.github.io/beginners/Java/">Java</a></li>
-  <li><a href="https://ramanaditya.github.io/beginners/competitive_coding/">Competitive Coding</a></li>
-</ul>
+
 <div>
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/C">C</a></summary>
