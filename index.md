@@ -1,3 +1,9 @@
+nav:
+- Home: 'README.md'
+- Contents:
+  - 'C' : 'C/README.md'
+  - 'python': 'python/README.md'
+- Contributors: 'CONTRIN+BUTING.md'
 ### Contents of the site
 
   <details>
