@@ -15,8 +15,29 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
 </ul>
 
 ### Creators and Contacts
-Name|Github|LinkdIn
----------|-------|------
-`Aditya Raman`| [Github](https://github.com/ramanaditya) | [LinkdIn](https://www.linkedin.com/in/ramanaditya/) |
-`Aswin Gopinathan` | [Github](https://github.com/infiniteoverflow) | [LinkdIn](https://www.linkedin.com/in/aswin-gopinathan-69556716a/) 
-`Akshay Kumar` | [Github](https://github.com/AkshayKumar007) | [LinkdIn](https://www.linkedin.com/in/akshay-kumar-b8025a130/) 
+<table class="tg">
+  <tr>
+    <th class="tg-baqh" colspan="1">Creators</th>
+    <th class="tg-baqh" colspan="2">Contacts</th>
+  </tr>
+  <tr>
+    <th class="tg-baqh">Name</th>
+    <th class="tg-baqh">Github</th>
+    <th class="tg-baqh">LinkdIn</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Aditya Raman</td>
+    <td class="tg-baqh"><a href="https://github.com/ramanaditya">Github</a></td>
+    <td class="tg-baqh"><a href="https://www.linkedin.com/in/ramanaditya/">LinkdIn</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Aswin Gopinathan</td>
+    <td class="tg-baqh"><a href="https://github.com/infiniteoverflow">Github</a></td>
+    <td class="tg-baqh"><a href="https://www.linkedin.com/in/aswin-gopinathan-69556716a/">LinkdIn</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Akshay Kumar</td>
+    <td class="tg-baqh"><a href="https://github.com/AkshayKumar007">Github</a></td>
+    <td class="tg-baqh"><a href="https://www.linkedin.com/in/akshay-kumar-b8025a130/">LinkdIn</a></td>
+  </tr>
+</table>
