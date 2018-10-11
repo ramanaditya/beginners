@@ -54,14 +54,10 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
 ### Creators and Contacts
 <table class="tg">
   <tr>
-    <th class="tg-baqh" colspan="1">Creators</th>
+    <th class="tg-baqh" colspan="1">Names</th>
     <th class="tg-baqh" colspan="2">Contacts</th>
   </tr>
-  <tr>
-    <th class="tg-baqh">Name</th>
-    <th class="tg-baqh">Github</th>
-    <th class="tg-baqh">LinkdIn</th>
-  </tr>
+  
   <tr>
     <td class="tg-baqh">Aditya Raman</td>
     <td class="tg-baqh"><a href="https://github.com/ramanaditya">Github</a></td>
