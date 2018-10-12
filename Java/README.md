@@ -6,7 +6,7 @@ You can download the JDK from [Oracle](https://www.oracle.com/technetwork/java/j
 # Writing a Java file
 In Linux you can use geditor for typing your Java Program or u can download IDEs like [IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows),[Netbeans](https://netbeans.org/downloads/) or [Eclipse](https://www.eclipse.org/downloads/).
 
-#Saving Your file
+# Saving Your file
 Save your java program as .java file.
 
 # Running your file
