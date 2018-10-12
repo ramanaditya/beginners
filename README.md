@@ -14,7 +14,6 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/C">C</a></summary>
     <ul>
-      <li>README.md</li>
       <li>sample.c</li>
       <li>1_hello_world</li>
     </ul>
@@ -23,7 +22,6 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/python">Python</a></summary>
     <ul>
-      <li>README.md</li>
       <li>sample.py</li>
       <li>1_hello_world</li>
       <li>2_variable</li>
@@ -33,9 +31,6 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/Java">Java</a></summary>
     <ul>
-      <li>README.md</li>
-      <li>practice.md</li>
-      <li>Reference_books.md</li>
       <li>1. Hello World</li>
       <li>2. Variables</li>
     </ul>
@@ -43,8 +38,14 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/competitive_coding">Competitive Coding</a></summary>
     <ul>
-      <li>README.md</li>
       <li>fibonacci</li>
+      <li>prime numbers</li>
+    </ul>
+  </details>
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/LearnLinux">Learn Linux</a></summary>
+    <ul>
+      
     </ul>
   </details>
 </div>
