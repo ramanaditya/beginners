@@ -6,4 +6,6 @@ there is always one college library though
 ## For Complete Beginners
 <li><a href="https://www.amazon.in/Java-Beginners-Hands-Project-Project-ebook/dp/B01LZOCVN9">Java: Learn Java in One Day and Learn It Well</a> 
 by LCF Publishing (Author), Jamie Chan </li>
+<li>Core Java by Dr. R Nageshwara Rao </li>
 <hr>
+
