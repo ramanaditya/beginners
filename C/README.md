@@ -1,6 +1,6 @@
 # General way of writing and executing a C file
 ## For writing a piece of code in C
-Open a text editor (preferably use [atom](https://atom.io) or [sublime Text](https://www.sublimetext.com) or [VS_Code](https://code.visualstudio.com/))
+Open a text editor (preferably use [atom](https://atom.io) or [sublime Text](https://www.sublimetext.com) or [VS_Code](https://code.visualstudio.com/)(Preffered))
 
 ## Writing Code
 You can use/copy [sample.c](https://github.com/ramanaditya/beginners/blob/master/C/sample.c) file and edit in that and save that with different names
