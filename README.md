@@ -44,9 +44,6 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
   </details>
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/LearnLinux">Learn Linux</a></summary>
-    <ul>
-      
-    </ul>
   </details>
 </div>
 
