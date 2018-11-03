@@ -15,4 +15,10 @@
    * [Fundamentals with Code examples](https://www.programiz.com/c-programming/c-pointers)
    
 --------
-  **Note**: Pointers are a bit confusing in beginning. If have any doubt please contact us, we'll try our best to help you all.:smile:
+  **Note**: 
+  
+  1.Pointers are a bit confusing in beginning. If have any doubt please contact us, we'll try our best to help you all.:smile:
+  
+  2.Ask for Questions when you are done with basics.:v:
+  
+------
