@@ -12,6 +12,13 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
 
 <div>
   <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/Git">Git</a></summary>
+    <ul>
+      
+   </ul>
+  </details>
+  
+  <details>
     <summary><a href="https://ramanaditya.github.io/beginners/C">C</a></summary>
     <ul>
       <li>sample.c</li>
