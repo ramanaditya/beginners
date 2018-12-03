@@ -22,9 +22,6 @@ Technically you can contribute in two ways
 <div>
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/Git">Git</a></summary>
-    <ul>
-      
-   </ul>
   </details>
   
   <details>
