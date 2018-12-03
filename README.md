@@ -14,7 +14,7 @@ Technically you can contribute in two ways
 > ```
 > NOTE : Add your name in the CONTRIBUTING/README.md file in the proper way as it has been given
 > ```
-Goto [CONTRIBUTING/README.md](https://github.com/glugmv/beginners/edit/master/CONTRIBUTING/README.md) 
+Goto [CONTRIBUTING/README.md](https://github.com/ramanaditya/beginners/edit/master/CONTRIBUTING/README.md) 
 <hr>
 
 ### Contents of the site
