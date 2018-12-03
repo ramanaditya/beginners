@@ -5,6 +5,15 @@ This ia a type of site for `Collections of Programming questions`. The main aim 
 ### How you will be benefitted
 
 Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can utilise this repository for solving and practising questions as you keep on learning as you will get a bulk of questions and you can view the different approaches to solve the questions. For simplicity to find the level of questions we have marked serial numbers as the first character of the file name. Each file contains a `README.md` file that contains all the basic informations required.
+
+### How to contribute ?
+
+Technically you can contribute in two ways
+- Adding Questions: You can add questions in any of the given topics or you can add another folder for new language or topic. All the information about question should be added inside the `README.md` file inside the question folder or you can create a `sample.extension` file and describe the questions.
+- Pushing Solutions: If you are a learner or want to practice then you can also push the code,`Try to comment the solution` which you got during the execution inside the solved file only. We will check it and if it's correct we will merge the solutions
+> ```
+> NOTE : Add your name in the CONTRIBUTING.md file in the proper way as it has been given
+> ```
 <hr>
 
 ### Contents of the site
@@ -79,3 +88,8 @@ Everyone will learn atleast the basics of [GIT](https://git-scm.com). You can ut
     <td class="tg-baqh"><a href="https://www.linkedin.com/in/akshay-kumar-b8025a130/">LinkdIn</a></td>
   </tr>
 </table>
+
+
+> ```
+> // Feel Free to Contribute.
+> ```
