@@ -89,7 +89,7 @@ Goto [CONTRIBUTING/README.md](https://github.com/ramanaditya/beginners/edit/mast
     <center><td colspan="3" class="tg-baqh">&nbsp;</td></center>
   </tr>
   <tr>
-  <td colspan="3" class="tg-baqh"><a href="https://ramanaditya.github.io/beginners/CONTRIBUTING/">Other Contributors</a></td>
+  <td colspan="3" class="tg-baqh"><a href="https://ramanaditya.github.io/beginners/CONTRIBUTORS/">Other Contributors</a></td>
   </tr>
 </table>
 
