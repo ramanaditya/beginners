@@ -87,6 +87,12 @@ Technically you can contribute in two ways
     <td class="tg-baqh"><a href="https://github.com/AkshayKumar007">Github</a></td>
     <td class="tg-baqh"><a href="https://www.linkedin.com/in/akshay-kumar-b8025a130/">LinkdIn</a></td>
   </tr>
+  <tr>
+    <center><td colspan="3" class="tg-baqh">&nbsp;</td></center>
+  </tr>
+  <tr>
+  <td colspan="3" class="tg-baqh"><a href="https://github.com/ramanaditya/beginners/blob/master/CONTRIBUTING.md">Other Contributors</a></td>
+  </tr>
 </table>
 
 
