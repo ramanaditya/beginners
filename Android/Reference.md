@@ -1,4 +1,4 @@
-![image](https://www.google.co.in/imgres?imgurl=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2018%2F05%2F00100dportrait_00100_burst20180227132234437_cover.jpg%3Fw%3D730%26crop%3D1&imgrefurl=https%3A%2F%2Ftechcrunch.com%2F2018%2F10%2F16%2Fgoogle-tweaks-android-licensing-terms-in-europe-to-allow-google-app-unbundling-for-a-fee%2F&docid=cil00g3a39vV-M&tbnid=3dqTxCVb_3SVMM%3A&vet=10ahUKEwjDtpXXsYXfAhUQf30KHfTTBOEQMwiWASghMCE..i&w=730&h=547&bih=981&biw=1837&q=android&ved=0ahUKEwjDtpXXsYXfAhUQf30KHfTTBOEQMwiWASghMCE&iact=mrc&uact=8)
+![image](https://techcrunch.com/wp-content/uploads/2018/05/00100dportrait_00100_burst20180227132234437_cover.jpg?w=1390&crop=1)
 
 
 ## Index
