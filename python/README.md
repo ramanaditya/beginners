@@ -39,6 +39,7 @@ You can use/copy [sample.py](https://github.com/ramanaditya/beginners/blob/maste
 
 # Books/References for studying Python
 <li><a href="https://docs.python.org/3/">Python Documentation </a> </li>
+<li><a href="https://www.py4e.com">Python For Everybody </a> </li>
 <li><a href="http://www.dsf.unica.it/~fiore/LearningPython.pdf"> Learning Python<sup>[pdf]</sup></a> Book by Mark Lutz (O'Reilly) </li> 
 <li><a href="https://www.souravsengupta.com/cds2015/python/LPTHW.pdf"> LEARN PYTHON THE HARD WAY<sup>[pdf]</sup> </a> Book by Zed A. Shaw </li>
 
