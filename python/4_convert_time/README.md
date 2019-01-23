@@ -1,6 +1,7 @@
 ## Program to convert time in hour to time in seconds and time in seconds to time in hour,min and sec
 
 ### What to do
+- Use python3
 - Take the input for time(hour,min and sec)
 - Convert the time in seconds
 - print out the result
@@ -21,3 +22,7 @@
   - Output is : 4255s
 - time in seconds: 5217s
   - time in hour: 1:26:57
+
+> ```
+> Created By : Aditya Raman
+> ```
