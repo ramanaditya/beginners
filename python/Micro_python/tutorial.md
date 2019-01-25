@@ -19,6 +19,7 @@ Almost anything you can imagine!  Just like an Arduino board MicroPython can con
 
 - [Official Documentation](http://docs.micropython.org/en/latest/)
 - [Getting Started](https://www.youtube.com/watch?v=BuJ3j3wohrw&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0)
+- [Demos](https://www.youtube.com/watch?v=hHec4qL00x0)
 - [CPU Emulator for Practice](https://micropython.org/unicorn/)
 
 
