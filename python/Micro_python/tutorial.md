@@ -1,7 +1,7 @@
-###MicroPython
+### MicroPython
 
 
-![Image_MicroPy](https://en.wikipedia.org/wiki/MicroPython#/media/File:Micropython-logo.svg)
+![ImageMicroPy](https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg)
 
 ###### INTRODUCTION
 
