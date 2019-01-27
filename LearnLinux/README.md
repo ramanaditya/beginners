@@ -1,7 +1,7 @@
 # Learn Linux
 <hr>
 ## Basic Commands
-<hr>
+
 
 
 |Sl. No.|Command|Abbrev.|About|
@@ -14,5 +14,5 @@
 ### Books/References for Linux
 
 ### 
-<hr>
+
 > // Feel Free to Contribute
