@@ -22,6 +22,9 @@
 |13.|echo|Displays or moves a text|Displays or moves the line of text given as attribute on the terminal or a given file |
 |14.|sudo|SuperUser Do|Runs any command with administrative or root privileges |
 |15.|df|Disk Space|Displays the disk space used and remaining for all the partitions |
+|16.|chmod|Change mode|Changes the permission for certain files or directories |
+|17.|clear|Clear screen|Clears the terminal |
+|18.|grep|Pattern Matching|Used to find some pattern in a file or a database |
 
 
 <hr>
