@@ -16,6 +16,10 @@
 |7.|rm|Remove|Removes files and directories |
 |8.|touch|Create file|Used to create a file |
 |9.|man|Documentation|Gives detail explanation of any linux command given as attribute to it |
+|10.|cp|Copy|Copies a file or directory from one location to another |
+|11.|mv|Move or Rename|Moves or Renames a given file or directory |
+|12.|Locate|Find a file|Locates a file or directory in any location |
+
 
 
 
