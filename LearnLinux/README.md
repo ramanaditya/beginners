@@ -19,8 +19,9 @@
 |10.|cp|Copy|Copies a file or directory from one location to another |
 |11.|mv|Move or Rename|Moves or Renames a given file or directory |
 |12.|Locate|Find a file|Locates a file or directory in any location |
-
-
+|13.|echo|Displays or moves a text|Displays or moves the line of text given as attribute on the terminal or a given file |
+|14.|sudo|SuperUser Do|Runs any command with administrative or root privileges |
+|15.|df|Disk Space|Displays the disk space used and remaining for all the partitions |
 
 
 <hr>
