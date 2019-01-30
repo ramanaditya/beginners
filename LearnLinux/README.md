@@ -1,7 +1,7 @@
-# Learn Linux
+## Learn Linux
 <hr>
 
-## Basic Commands
+### Basic Commands
 
 
 
@@ -18,7 +18,7 @@
 |9.|man|Documentation|Gives detail explanation of any linux command given as attribute to it |
 |10.|cp|Copy|Copies a file or directory from one location to another |
 |11.|mv|Move or Rename|Moves or Renames a given file or directory |
-|12.|Locate|Find a file|Locates a file or directory in any location |
+|12.|find|Find a file|Locates a file or directory in any location based on some selection criteria|
 |13.|echo|Displays or moves a text|Displays or moves the line of text given as attribute on the terminal or a given file |
 |14.|sudo|SuperUser Do|Runs any command with administrative or root privileges |
 |15.|df|Disk Space|Displays the disk space used and remaining for all the partitions |
@@ -28,7 +28,15 @@
 |19.|git|Version control|Used to perform different operations in Github|
 |20.|date|Current date|Displays the present date in the format day:mon:date:time:zone:year|
 |21.|exit|Exit terminal|Exits the terminal that is currently opened|
-
+|22.|gcc -o test [program_name]|GNU-GCC compiler|Compiles program|
+|23.|./ test|program testing|runs the program in terminal|
+|24.|clear|clear the terminal| Equivalent to typing Control-L when using the bash shell.|
+|25.|nohup|no hangup|prefixing a command with nohup prevents it from being aborted automatically when you log out or exit the shell.|
+|26.|cut|cut out|extract sections from each line of input — usually from a file|
+|27.|paste|writes selected section|writes selected sections from a file, separated by delimiter, to the output file|
+|28.|locate|faster file search|searches database prepared by updatedb to locate a file(similar to find)|
+|29.|at|runs commands at specified time| schedule one or more programs for a single execution at some later time|
+|30.|ln|link|creates links(soft or hard) between files|
 
 <hr>
 
