@@ -25,6 +25,9 @@
 |16.|chmod|Change mode|Changes the permission for certain files or directories |
 |17.|clear|Clear screen|Clears the terminal |
 |18.|grep|Pattern Matching|Used to find some pattern in a file or a database |
+|19.|git|Version control|Used to perform different operations in Github|
+|20.|date|Current date|Displays the present date in the format day:mon:date:time:zone:year|
+|21.|exit|Exit terminal|Exits the terminal that is currently opened|
 
 
 <hr>
