@@ -1,7 +1,7 @@
 ## Dynamic Memory Allocation
 -----------------------
 ![Chart](http://www.trytoprogram.com/images/dynamic-memory-allocation.jpg)
->source:www.trytoprogram.com
+>Image source:www.trytoprogram.com
 
 In most of our C programs when we create an array, we specify its size(allocate memory) at compile time.This is called Static Memory Allocation.
 However, there are certain situations where we do not know the actual size of array beforehand; if we statically allocate memory it may cause
