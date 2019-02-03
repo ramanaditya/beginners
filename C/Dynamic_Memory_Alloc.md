@@ -7,12 +7,12 @@ In most of our C programs when we create an array, we specify its size(allocate 
 However, there are certain situations where we do not know the actual size of array beforehand; if we statically allocate memory it may cause
 wastage of memory(if size is to large) or overfloe(if size is small). To overcome this we use **Dynamic memory allocation concepts**.
 
->Note: prior kn
+>Note: prior knowledge of pointers may be useful.
 It is facilitated by four functions in <stdlib.h>. These are :
-> 1. malloc()
-> 2. calloc()
-> 3. realloc()
-> 4. free()
+ 1. malloc()
+ 2. calloc()
+ 3. realloc()
+ 4. free()
 
 #### 1. malloc()
 **Synatx**:    ptr = (data_type *)malloc(size);      
