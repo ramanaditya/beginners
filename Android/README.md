@@ -14,8 +14,6 @@ Paste those files in the corresponding directories of the res directory.
 
 Paste those files in the corresponding drawable/raw directory of the res directory
 
-
-
 ## Android Examples
 
 1. Types of Views
