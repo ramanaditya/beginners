@@ -30,7 +30,7 @@ It is facilitated by four functions in <stdlib.h>. These are :
 >                   - size is the number of bytes in each block
 
 #### 3. realloc()
-**Synatx**:    ptr = (data_type *)calloc(ptr,size);      
+**Synatx**:    ptr = (data_type *)realloc(ptr,size);      
 >              where,
 >                  - ptr is a pointer to a block of previously allocated memory either using malloc() or calloc()
 >                  - data_type can be any of the basic data type or user defined data type
