@@ -16,6 +16,6 @@ Paste those files in the corresponding drawable/raw directory of the res directo
 
 ## Android Examples
 
-1. Types of Views
+1. [Types of Views](https://github.com/infiniteoverflow/beginners/blob/master/Android/Android%20Examples/Types%20of%20Views%20in%20Android/README.md)
 
 2. [Navigation Drawers](https://github.com/infiniteoverflow/beginners/blob/master/Android/Android%20Examples/Navigation%20Drawer/README.md)
