@@ -28,7 +28,7 @@
 |19.|git|Version control|Used to perform different operations in Github|
 |20.|date|Current date|Displays the present date in the format day:mon:date:time:zone:year|
 |21.|exit|Exit terminal|Exits the terminal that is currently opened|
-|22.|gcc -o test [program_name]|GNU-GCC compiler|Compiles program|
+|22.|gcc -o test [program_name]|GNU-GCC compiler|Compiles C program|
 |23.|./ test|program testing|runs the program in terminal|
 |24.|clear|clear the terminal| Equivalent to typing Control-L when using the bash shell.|
 |25.|nohup|no hangup|prefixing a command with nohup prevents it from being aborted automatically when you log out or exit the shell.|
@@ -37,6 +37,7 @@
 |28.|locate|faster file search|searches database prepared by updatedb to locate a file(similar to find)|
 |29.|at|runs commands at specified time| schedule one or more programs for a single execution at some later time|
 |30.|ln|link|creates links(soft or hard) between files|
+|31.|g++ -o test [program_name]|GNU compiler|Compiles C++ program|
 
 <hr>
 
