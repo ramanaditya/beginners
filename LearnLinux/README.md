@@ -40,11 +40,3 @@
 |31.|g++ -o test [program_name]|GNU compiler|Compiles C++ program|
 
 <hr>
-
-### Books/References for Linux
-
-### 
-
-> ```
-> // Feel Free to Contribute
-> ```
