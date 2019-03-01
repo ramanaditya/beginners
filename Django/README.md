@@ -21,7 +21,7 @@
 > Deactivating Virtual Environment
 > $ deactivate
 > ```
-<img src="https://github.com/ramanaditya/beginners/blob/master/Django/Images/image2.png"/>
+<img src="https://github.com/ramanaditya/beginners/blob/master/Django/Images/image2.png"/> ![](Images/image2.png)
 
 ### Installing Django
 > ```
