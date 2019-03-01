@@ -21,7 +21,7 @@
 > Deactivating Virtual Environment
 > $ deactivate
 > ```
-<img src="https://github.com/ramanaditya/beginners/blob/master/Django/Images/image2.png"/> ![](Images/image2.png)
+![](Images/image2.png)
 
 ### Installing Django
 > ```
@@ -38,16 +38,16 @@
 > ```
 > $ django-admin startproject website    //This will create a website directory in your current directory
 > ```
-<img src="https://github.com/ramanaditya/beginners/blob/master/Django/Images/image3.png"/>
+![](Images/image3.png)
 
 ### Running on the local host
 > ```
 > $ python manage.py runserver      
 > ```
-<img src="https://github.com/ramanaditya/beginners/blob/master/Django/Images/image4.png"/>
+![](Images/image4.png)
 
 After you have done everything right type the url in the browser and it will look as 
-<img src="https://github.com/ramanaditya/beginners/blob/master/Django/Images/images1.png"/>
+![](Images/images1.png)
 
 
 ### Books , References and Sources
