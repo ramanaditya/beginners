@@ -44,6 +44,7 @@
 > ```
 
 After you have done everything right type the url in the browser and it will look as 
+<img src="https://github.com/ramanaditya/beginners/blob/master/Django/Images/images1.png"/>
 
 
 ### Books , References and Sources
