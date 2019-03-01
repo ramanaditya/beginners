@@ -1,4 +1,4 @@
-<img src="https://github.com/ramanaditya/beginners/blob/master/octocat.png"/>
+![](/octocat.png)
 
 ## Welcome to Beginners Site
 
