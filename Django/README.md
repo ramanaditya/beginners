@@ -56,7 +56,14 @@ After you have done everything right type the url in the browser and it will loo
 > $ pip3.6 install --user pythonanywhere
 > $ pa_autoconfigure_django.py https://github.com/<your-github-username>/<repo-name>.git
 > ```
+  
+![](Images/image5.png)
+  
+![](Images/image6.png)
 
+![](Images/image7.png)
+
+![](Images/image8.png)
 
 
 ### Deploying the Web App on pythonanywhere.com
