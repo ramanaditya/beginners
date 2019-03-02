@@ -1,4 +1,6 @@
-# Django : Creating Web App
+# Django
+
+##  : Creating Web App
 
 ### Creating Virtual Environment
 > ```
@@ -48,6 +50,10 @@
 
 After you have done everything right type the url in the browser and it will look as 
 ![](Images/images1.png)
+
+## : Deploying Web App
+
+### Deploying the Web App on pythonanywhere.com
 
 
 ### Books , References and Sources
