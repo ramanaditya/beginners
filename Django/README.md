@@ -52,9 +52,49 @@ After you have done everything right type the url in the browser and it will loo
 ![](Images/images1.png)
 
 ## : Deploying Web App
+> ```
+> $ pip3.6 install --user pythonanywhere
+> $ pa_autoconfigure_django.py https://github.com/<your-github-username>/<repo-name>.git
+> ```
+
+
 
 ### Deploying the Web App on pythonanywhere.com
+> ```
+> Create a account on https://www.pythonanywhere.com/user/techlearn/
+> Start a Bash Console
+> 
+> $ git clone https://github.com/< username >/< myproject >.git
+> $ mkvirtualenv --python=/usr/bin/python3.6 <name-of-virtual-env>
+> $ source my_env_virtual/bin/activate
+> $ pip freeze > requirements.txt     //To generate requirements.txt file
+> $ pip install -r requirements.txt
+>
+> ```
 
+### Changing the wsgi file
+Remove everything and write the following piece of code
+> ```
+> # +++++++++++ DJANGO +++++++++++
+> # To use your own django app use code like this:
+> import os
+> import sys
+>
+> # assuming your django settings file is at '/home/myusername/mysite/mysite/settings.py'
+> path = '/home/myusername/mysite' # path to settings.py
+> if path not in sys.path:
+>     sys.path.append(path)
+>
+> os.environ['DJANGO_SETTINGS_MODULE'] = 'mysite.settings' # mysite is the project name
+>
+> ## Uncomment the lines below depending on your Django version
+> ###### then, for django >=1.5:
+> from django.core.wsgi import get_wsgi_application
+> application = get_wsgi_application()
+> ###### or, for older django <=1.4
+> #import django.core.handlers.wsgi
+> #application = django.core.handlers.wsgi.WSGIHandler()
+> ```
 
 ### Books , References and Sources
 - Virtual Environment and pip [Read More...](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/)
