@@ -20,5 +20,4 @@ Paste those files in the corresponding drawable/raw directory of the res directo
 
 2. [Navigation Drawers](https://github.com/infiniteoverflow/beginners/blob/master/Android/Android%20Examples/Navigation%20Drawer/README.md)
 
-3. [Card View]
-(beginners/Android/Android Examples/Card view/README.md)
+3. [Card View](https://github.com/infiniteoverflow/beginners/blob/master/Android/Android%20Examples/Card%20view/README.md)
