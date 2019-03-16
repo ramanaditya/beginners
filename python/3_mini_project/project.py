@@ -1,0 +1,19 @@
+Sub1TotMarks = 100
+Sub2TotMarks = 100
+Sub3TotMarks = 100
+Sub4TotMarks = 100
+Sub5TotMarks = 100
+sub1=int(input("Enter marks of the first subject: "))
+sub2=int(input("Enter marks of the second subject: "))
+sub3=int(input("Enter marks of the third subject: "))
+sub4=int(input("Enter marks of the fourth subject: "))
+sub5=int(input("Enter marks of the fifth subject: "))
+sum = sub1 + sub2 + sub3 + sub4 + sub5
+average = sum/5
+percentage = (sum/500)*100
+print("Average Marks = ", average)
+print("Percentage Marks = ", percentage,"%")
+sumTot = (Sub1TotMarks + Sub2TotMarks + Sub3TotMarks + Sub4TotMarks + Sub5TotMarks)
+print ("Total Marks = " , sumTot)
+CGPA=(percentage/9.5)
+print("Total CGPA",CGPA)
