@@ -22,6 +22,8 @@
 
 5. [Machine Learning by IBM](https://www.coursera.org/learn/machine-learning-with-python)
 
+6. [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
+
 > ```
 > Feel Free to Contribute
 > ```
