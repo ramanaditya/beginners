@@ -15,4 +15,7 @@ Here we are using Flask as our Backend Framework.
 4. [ORM_ex.py](ORM_ex.py) gives the general code you need to use if yout application is using SQL Alchemy ORM.
 5. [QueryExamples.md](QueryExamples.md) gives example of how to query Database using SQl Alchemy.
 
-[Documentation and Tutorials](https://www.sqlalchemy.org/library.html#tutorials)
+**For more information**:
+
+   [Documentation and Tutorials](https://www.sqlalchemy.org/library.html#tutorials)
+
