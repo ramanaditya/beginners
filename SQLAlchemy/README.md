@@ -18,3 +18,4 @@ Here we are using Flask as our Backend Framework.
 **For more information**:
 
    [Documentation and Tutorials](https://www.sqlalchemy.org/library.html#tutorials)
+
