@@ -1,4 +1,4 @@
-<img src="https://github.com/ramanaditya/beginners/blob/master/octocat.png"/>
+![](/octocat.png)
 
 ## Welcome to Beginners Site
 
@@ -23,8 +23,12 @@ Goto [CONTRIBUTORS/README.md](https://github.com/ramanaditya/beginners/edit/mast
 
 
 <div>
+  
   <details>
-    <summary><a href="https://ramanaditya.github.io/beginners/Git">Git</a></summary>
+    <summary><a href="https://ramanaditya.github.io/beginners/Android">Android</a></summary>
+    <ul>
+      <li>1. Android Examples</li>
+    </ul>
   </details>
   
   <details>
@@ -34,7 +38,45 @@ Goto [CONTRIBUTORS/README.md](https://github.com/ramanaditya/beginners/edit/mast
       <li>1_hello_world</li>
     </ul>
   </details>
+  
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/Django">Django</a></summary>
+    <ul>
+      
+    </ul>
+  </details>
 
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/Git">Git</a></summary>
+  </details>
+  
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/Java">Java</a></summary>
+    <ul>
+      <li>1. Hello World</li>
+      <li>2. Variables</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/Kotlin">Kotlin</a></summary>
+    <ul>
+      <li>Sample programs</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/LearnLinux">Learn Linux</a></summary>
+  </details>
+  
+  <details>
+    <summary><a href="https://ramanaditya.github.io/beginners/competitive_coding">Competitive Coding</a></summary>
+    <ul>
+      <li>fibonacci</li>
+      <li>prime numbers</li>
+    </ul>
+  </details>
+  
   <details>
     <summary><a href="https://ramanaditya.github.io/beginners/python">Python</a></summary>
     <ul>
@@ -43,36 +85,7 @@ Goto [CONTRIBUTORS/README.md](https://github.com/ramanaditya/beginners/edit/mast
       <li>2_variable</li>
     </ul>
   </details>
-
-  <details>
-    <summary><a href="https://ramanaditya.github.io/beginners/Java">Java</a></summary>
-    <ul>
-      <li>1. Hello World</li>
-      <li>2. Variables</li>
-    </ul>
-  </details>
-  <details>
-    <summary><a href="https://ramanaditya.github.io/beginners/competitive_coding">Competitive Coding</a></summary>
-    <ul>
-      <li>fibonacci</li>
-      <li>prime numbers</li>
-    </ul>
-  </details>
-  <details>
-    <summary><a href="https://ramanaditya.github.io/beginners/LearnLinux">Learn Linux</a></summary>
-  </details>
-  <details>
-    <summary><a href="https://ramanaditya.github.io/beginners/Android">Android</a></summary>
-    <ul>
-      <li>1. Android Examples</li>
-    </ul>
-  </details>
-  <details>
-    <summary><a href="https://ramanaditya.github.io/beginners/Kotlin">Kotlin</a></summary>
-    <ul>
-      <li>Sample programs</li>
-    </ul>
-  </details>
+  
 </div>
 
 <hr>
@@ -106,6 +119,10 @@ Goto [CONTRIBUTORS/README.md](https://github.com/ramanaditya/beginners/edit/mast
   <td colspan="3" class="tg-baqh"><a href="https://ramanaditya.github.io/beginners/CONTRIBUTORS/">Other Contributors</a></td>
   </tr>
 </table>
+
+![](https://avatars2.githubusercontent.com/u/32497523?s=200&v=4)
+![](https://avatars0.githubusercontent.com/u/40236624?s=200&v=4)
+![](https://avatars0.githubusercontent.com/u/35987800?s=200&v=4)
 
 
 > ```
