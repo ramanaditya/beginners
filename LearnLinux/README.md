@@ -38,5 +38,5 @@
 |29.|at|runs commands at specified time| schedule one or more programs for a single execution at some later time|
 |30.|ln|link|creates links(soft or hard) between files|
 |31.|g++ -o test [program_name]|GNU compiler|Compiles C++ program|
-
+|32.|passwd|password change|Change the password of the linux user account with root user|
 <hr>
