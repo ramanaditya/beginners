@@ -2,7 +2,7 @@
 
 ## Welcome to Beginners Site
 
-This ia a type of site for `Collections of Programming questions`. The main aim of this is to create a collection of questions and their solutions starting from the zero level to quite advance level. The learners can share their codes more precisely can push their codes and we will merge all the repositories that will have correct codes. This will eventually generate different approaches and algorithms for different problems.
+This is a type of site for `Collections of Programming questions`. The main aim of this is to create a collection of questions and their solutions starting from the zero level to quite advance level. The learners can share their codes more precisely can push their codes and we will merge all the repositories that will have correct codes. This will eventually generate different approaches and algorithms for different problems.
 
 ### How you will be benefitted?
 
