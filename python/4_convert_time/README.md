@@ -7,14 +7,14 @@
 - print out the result
 - Then take the input for seconds
 - Convert the seconds into hour,min and sec
-- Print ourt the result
+- Print out the result
 
 ### Input Format
 - time in hour as hh:mm:ss
 - time in seconds 
 
 ### Output Format
-- time in second
+- time in seconds
 - time in hour as hh:mm:ss
 
 ### Example
